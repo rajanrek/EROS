@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAcaEN7OXINy9qC_sK630Hyp01zRF9hhBE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>712943989595</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.feelgoodcontacts.feelgoodcontact</string>
+	<key>PROJECT_ID</key>
+	<string>fgc-uk</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fgc-uk.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:712943989595:ios:a597a8f1686ef30878607e</string>
+</dict>
+</plist>
