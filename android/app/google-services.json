@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712943989595",
+    "project_id": "fgc-uk",
+    "storage_bucket": "fgc-uk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712943989595:android:31283a8b21a969e578607e",
+        "android_client_info": {
+          "package_name": "app.feelgoodcontacts.com.feelgoodcontact"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD77cPqgrBjcklM9I3EurtNjWZ6wmN7D28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
